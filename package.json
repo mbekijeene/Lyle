@@ -1,0 +1,19 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit amet. Ab iusto laboriosam et eveniet laboriosam sit dignissimos sunt. In dolores fugit aut tempore repellat vel dolores quas est facere aspernatur rem vitae voluptatum ab voluptates laborum qui perferendis dolorem. Et reprehenderit distinctio cum repellat ipsa ea blanditiis earum id officiis repudiandae vel labore repellendus 33 iure ipsum id quasi omnis. Sed illo internos quo iure totam cum pariatur nihil et placeat quod quo assumenda velit quo internos earum et obcaecati enim.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbekijeene/Lyle.git"
+  },
+  "author": "Joseph Brendan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbekijeene/Lyle/issues"
+  },
+  "homepage": "https://github.com/mbekijeene/Lyle#readme"
+}
